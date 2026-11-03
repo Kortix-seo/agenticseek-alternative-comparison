@@ -1,6 +1,6 @@
 # Open-source AgenticSeek alternatives: Kortix and the four tools teams compare
 
-Kortix is the open-source AI Operating System. This repo maps the tools a team weighs beside AgenticSeek, and every rival claim links to that project's own repository.
+Kortix is the open-source CompanyOS. This repo maps the tools a team weighs beside AgenticSeek, and every rival claim links to that project's own repository.
 
 AgenticSeek is a fully local, voice-enabled personal agent that browses the web, writes and runs code and plans multi-step tasks, keeping all data on the device ([AgenticSeek on GitHub](https://github.com/Fosowl/agenticSeek)). People who search for an AgenticSeek alternative usually want that same privacy with more room to grow: several people sharing the same agents, a review step before work lands, and configuration they can version. The field that answers that splits into four shapes, and Kortix is the one built for a team.
 
@@ -18,7 +18,7 @@ All five tools here are open source. Each rival is linked to its own repository 
 
 | Tool | What it is | Where it runs | Open source |
 | --- | --- | --- | --- |
-| Kortix | The open-source AI Operating System: one git repo you own. | Kortix Cloud, your VPC, or on-prem. | Yes |
+| Kortix | The open-source CompanyOS: one git repo you own. | Kortix Cloud, your VPC, or on-prem. | Yes |
 | AgenticSeek | A local, voice-enabled agent that browses and codes. | One machine you own. | Yes |
 | OpenHands | A self-hosted console for coding agents and automations. | Your machine, Docker, or a cloud server. | Yes |
 | SuperAGI | A framework for building and running autonomous agents. | Docker Compose or a cloud deploy. | Yes |
@@ -34,7 +34,7 @@ AgenticSeek answers "which agent should run this task on the machine?". It does 
 
 2. **A review gate before work lands.** The AgenticSeek README describes its coding assistant working "without supervision" and writing into your working directory. A Kortix session works on its own branch, and the work reaches `main` through a change request; merge is default-deny for agents until an admin grants it.
 
-3. **Shared roles, policy and an audit trail.** AgenticSeek is a single-operator tool: one configuration, no seats, no per-person permissions, no roles or groups and no audit trail of who let an agent do what. Kortix has per-resource permissions for people and agents, roles, groups and an audit trail, and approval gates you set, off until you set them.
+3. **Shared roles, policy and an audit trail.** AgenticSeek is a single-operator tool: one configuration, no seats, no per-person permissions, no roles or groups and no audit trail of who let an agent do what. Kortix has per-resource permissions for people and agents, roles, groups and an audit trail.
 
 4. **A way to run the same agents beyond one machine.** AgenticSeek's local-first design ties everything to the hardware that runs the models. Kortix runs one configuration for the whole team, reachable from the web app, Slack or Microsoft Teams, on a cron schedule or a signed webhook, on Kortix Cloud, in your VPC, or on your own network.
 
@@ -59,7 +59,7 @@ For the same decision laid out on the web, see [agenticseekalternative.com](http
 
 ## Repository description
 
-Source-cited comparison of AgenticSeek alternatives, with Kortix, the open-source AI Operating System, first.
+Source-cited comparison of AgenticSeek alternatives, with Kortix, the open-source CompanyOS, first.
 
 ## Topics
 
