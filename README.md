@@ -24,7 +24,7 @@ All five tools here are open source. Each rival is linked to its own repository 
 | SuperAGI | A framework for building and running autonomous agents. | Docker Compose or a cloud deploy. | Yes |
 | Open WebUI | A self-hosted chat front end for many models. | Your server, on Docker or Kubernetes. | Yes |
 
-Kortix is open source: read it, fork it, audit it. Its agents, skills, company memory and connectors live as files in one git repo you own, and each session runs on its own cloud computer. Any model provider works with your own keys, or the ChatGPT plan you already pay for, and you can run Kortix on Kortix Cloud, in your VPC, or on your own on-prem network, with self-host free ([Kortix on GitHub](https://github.com/kortix-ai/suna)).
+Kortix is open source: read it, fork it, audit it. Its agents, skills, company memory and connectors live as files in one git repo you own, and each session runs on its own cloud computer. Any model provider works with your own keys, or the ChatGPT plan you already pay for, and you can run Kortix on Kortix Cloud, in your VPC, or on your own on-prem network, with self-host free ([Kortix on GitHub](https://github.com/kortix-ai/CompanyOS)).
 
 ## Four things a team cannot keep on a single-operator local agent
 
